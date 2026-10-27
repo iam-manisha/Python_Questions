@@ -23,3 +23,7 @@ print(emp1.**dict**)
 5. self is a reference variable which is used to hold the address of an object.
 6. Apart from self we can pass any other name by as per industrial standard we have to pass self.
 7. We can able to pass multiple constructor in same class but previous one will get override by the new one.
+
+---
+
+##CONSTRUCTOR WITHOUT ARGUMENTS
