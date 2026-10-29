@@ -1,3 +1,5 @@
+An object is an instance of a class. It can have data in the form of attributes and behaviour in the form of methods.
+
 **dict**:
 it is used to display only the object properties
 it will return the specific property in the form of dictionary
