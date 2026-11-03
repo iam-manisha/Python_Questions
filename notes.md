@@ -29,3 +29,15 @@ print(emp1.**dict**)
 ---
 
 ##CONSTRUCTOR WITHOUT ARGUMENTS
+
+# Class Method
+
+--> it is used to access/modify the class prop
+
+# Static Method
+
+-->no need to pass any object or class method.
+-->@staticmethod -- is a built-in decorator
+
+-->Mangling
+\_ClassName\_\_pname

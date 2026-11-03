@@ -15,9 +15,9 @@
 5. What is the behaviour?
    Behaviours are the actions that an object can perform. In Python, behaviours are defined using methods inside a class. For example, a mobile phone can make calls and take photos, which are its behaviours.
 
-🧠 2. What exactly is self?
-self refers to the current object that is calling the method.
-"self refers to the current object. It helps us access the attributes and methods of that object inside a class."
+6. What exactly is self?
+   self refers to the current object that is calling the method.
+   "self refers to the current object. It helps us access the attributes and methods of that object inside a class."
 
 for e.g:
 
