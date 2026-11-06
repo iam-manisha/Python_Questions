@@ -5,4 +5,4 @@ class Company:
 
 
     def __init__(self,name,age,salary):
-        self.name
+        self.name=name

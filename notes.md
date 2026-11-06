@@ -41,3 +41,41 @@ print(emp1.**dict**)
 
 -->Mangling
 \_ClassName\_\_pname
+
+# ABSTRACTION:
+
+Hiding the complexity of an application and providing the required functionality to the user.
+
+# concrete method:-
+
+having both declaration and implementation
+one class and multiple methods
+e.g:
+class Sample:
+def demo(self):
+
+# concrete class:-
+
+a class having only concrete method
+multiple class and multiple methods
+
+# abstract method:
+
+a method having only declaration and no implementation
+
+# abstract class:
+
+having only abstract methods
+-->achieve abstraction :inheritance and method overriding
+-->abc module abc class
+from abc import abc
+-->class should contain only abstract method
+-->all the method sb declared with @abstractmethod
+--> # a class which consist of only abstract method is called interface
+-->for all abstract method implementation :sub class/child class
+-->until/unless if we are not giving implementation we cant able to create an object
+-->we cant able to create an object for abstract class
+
+concrete method we can pass in abstract class
+cc-->am
+cm-->ac
