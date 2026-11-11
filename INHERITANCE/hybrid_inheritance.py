@@ -23,7 +23,7 @@ class Gpay(Payments):
 class Mobile(Phonepe,Gpay):
     def __init__(self):
         print("Payment App:\n1.Phonepe\n2.Google Pay")
-        choice = int(input("enter your choice"))
+        choice = int(input("enter your choice:"))
         if choice == 1:
             super().__init__()
         elif choice ==2:
