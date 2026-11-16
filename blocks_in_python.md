@@ -19,8 +19,10 @@ http://4.Final Block
 It is a keyword, it is used to throw exception, whenever user need of it.
 
 -------------------------------- Examples refer http://124.py File-----------------------------
-#. User defined Exception  
- ● User defined exceptions are the “Exception Class” created by user
+
+# User defined Exception
+
+● User defined exceptions are the “Exception Class” created by user
 based on the requirement.
 ● It is used to rectifying an error.
 ● Every user defined exception should be defined from the exception
@@ -28,9 +30,10 @@ class is called “Exception.
 
 -------------------------------- Examples refer http://124.py File-----------------------------
 
-#. Assertion:
+# Assertion:
+
 ● Assert is a keyword; it is used to compare and raised an exception.
-● If the condition if False, then it throws exception error.
+● If the condition is False, then it throws exception error.
 
 # Generic Exception:
 
